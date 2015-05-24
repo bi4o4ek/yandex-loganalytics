@@ -15,7 +15,7 @@ from urlparse import urlparse
 from collections import defaultdict
 
 __author__ = 'Vladimir Bykanov'
-default_log_path = '/home/bi4o4ek/yaTest/003.in'
+default_log_path = '/home/bi4o4ek/yaTest/input.txt'
 
 # Some dark magic to enable deep nested dicts
 nested_dict = lambda: defaultdict(nested_dict)

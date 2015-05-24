@@ -14,7 +14,7 @@ import math
 import heapq
 
 __author__ = 'Vladimir Bykanov'
-default_log_path = '/home/bi4o4ek/yaTest/003.in'
+default_log_path = '/home/bi4o4ek/yaTest/input.txt'
 
 # Pure python func for percentile calculation
 # http://code.activestate.com/recipes/511478-finding-the-percentile-of-the-values/
