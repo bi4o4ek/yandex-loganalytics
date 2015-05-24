@@ -1,6 +1,6 @@
 # Scripts for log analysis
 
-Required Python 2.7
+Require Python 2.7
 
 loganalytics.py calculates 95th percentile for request time and shows top 10 requests ID with max send time to customers.
 
