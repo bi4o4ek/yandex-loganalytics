@@ -1,6 +1,7 @@
 # Scripts for log analysis
 
 loganalytics.py calculates 95th percentile for request time and shows top 10 requests ID with max send time to customers.
+
 granalytics.py shows number of partially merged requests and gives complete statistics of connections/errors for each backend groups
 
 ## Start example:
