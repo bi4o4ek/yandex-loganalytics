@@ -15,4 +15,5 @@ Make scripts executable with 'chmod +x' and then run them
 If you do not set path to log, then default location will be used (/home/bi4o4ek/yaTest/input.txt)
 
 ## TODO
+Split monolithic code into small functions
 Add some multiprocessing
