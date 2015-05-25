@@ -16,4 +16,5 @@ If you do not set path to log, then default location will be used (/home/bi4o4ek
 
 ## TODO
 Split monolithic code into small functions
+
 Add some multiprocessing
